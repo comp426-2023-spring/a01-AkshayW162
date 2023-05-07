@@ -1,0 +1,28 @@
+{
+  "name": "akshay-walavalkar-webserver",
+  "version": "1.0.0",
+  "description": "This package contains a very simple web server that takes one argument for port and then serves any files inside the public directory.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-AkshayW162.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "port",
+    "node",
+    "fs",
+    "args",
+    "https"
+  ],
+  "author": "@akshayw162",
+  "license": "SEE LICENSE IN a01-akshayw162",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-AkshayW162/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-AkshayW162#readme"
+}
